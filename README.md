@@ -40,7 +40,7 @@ Results
 | Model | Features | Test Accuracy |
 |---|---:|---:|
 | Baseline ANN | 784 | 97.80% |
-| RBM + ANN | 128 | 95.60% |
+| RBM + ANN | 128 | 95.61% |
 | RBM + ANN | 256 | 97.61% |
 | RBM + ANN | 384 | 97.64% |
 
